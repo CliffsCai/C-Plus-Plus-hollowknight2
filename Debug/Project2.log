@@ -1,0 +1,33 @@
+﻿  arrow.cpp
+  arrow.h
+  attribute.cpp
+  bigkandao.cpp
+  character.cpp
+  criticalhit.cpp
+  flash.cpp
+  gesra.cpp
+  go.cpp
+  hammer.cpp
+  knight.cpp
+  monster.cpp
+  sheid.cpp
+  sheid.h
+  smallgrass.cpp
+  smallgrass.h
+  sparta.cpp
+  sword.cpp
+  sword.h
+  weapon_and_equipment.cpp
+  正在生成代码...
+  正在编译...
+  wolfteethbang.cpp
+  workManager.cpp
+C:\Users\mac\source\repos\Project2\Project2\workManager.cpp(16,9): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+C:\Users\mac\source\repos\Project2\Project2\workManager.cpp(73,52): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\mac\source\repos\Project2\Project2\workManager.cpp(709,81): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码...
+Debug\arrow.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+Debug\sheid.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+Debug\smallgrass.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+Debug\sword.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+  Project2.vcxproj -> C:\Users\mac\source\repos\Project2\Debug\Project2.exe

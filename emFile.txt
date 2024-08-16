@@ -1,0 +1,2 @@
+ name  : knight life value : 10  weight value : 10
+ name  : sparta life value : 15  weight value : 8

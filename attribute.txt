@@ -1,0 +1,1 @@
+attribute id : 1 attribute name : criticalhit

@@ -1,0 +1,2 @@
+ weapon id : 5  weapon name : bigkandao  weapon damage : 5  weapon defense : 2  weapon weight : 2
+ weapon id : 2  weapon name : sheid  weapon damage : 1  weapon defense : 6  weapon weight : 2

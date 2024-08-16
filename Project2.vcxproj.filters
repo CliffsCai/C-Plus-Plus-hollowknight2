@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="源文件\weapon">
+      <UniqueIdentifier>{a834fa0b-3405-4f0d-8c51-b9d89f863403}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\weapon">
+      <UniqueIdentifier>{5ddbde20-dbaf-4206-b78c-33a10e6e734c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\character">
+      <UniqueIdentifier>{64ac7011-523d-4b1d-833f-1de77e8d30e6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\monster">
+      <UniqueIdentifier>{2f34b064-b398-4fbe-acce-6cb99ee702e0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\monster">
+      <UniqueIdentifier>{2d3e2145-cf5d-4f39-b2cd-a4e3ccc93e2d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\character">
+      <UniqueIdentifier>{4fde15d7-efd8-4f5b-bbca-809fa27fc367}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\attribute">
+      <UniqueIdentifier>{94179c1d-6ed9-4f65-937e-a8193be6dccb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\attribute">
+      <UniqueIdentifier>{9cc8c0c9-69e8-496d-bcbb-3896186c80cc}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="workManager.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="bigkandao.h">
+      <Filter>头文件\weapon</Filter>
+    </ClInclude>
+    <ClInclude Include="hammer.h">
+      <Filter>头文件\weapon</Filter>
+    </ClInclude>
+    <ClInclude Include="weapon_and_equipment.h">
+      <Filter>头文件\weapon</Filter>
+    </ClInclude>
+    <ClInclude Include="character.h">
+      <Filter>头文件\character</Filter>
+    </ClInclude>
+    <ClInclude Include="knight.h">
+      <Filter>头文件\character</Filter>
+    </ClInclude>
+    <ClInclude Include="sparta.h">
+      <Filter>头文件\character</Filter>
+    </ClInclude>
+    <ClInclude Include="gesra.h">
+      <Filter>头文件\monster</Filter>
+    </ClInclude>
+    <ClInclude Include="monster.h">
+      <Filter>头文件\monster</Filter>
+    </ClInclude>
+    <ClInclude Include="criticalhit.h">
+      <Filter>头文件\attribute</Filter>
+    </ClInclude>
+    <ClInclude Include="attribute.h">
+      <Filter>头文件\attribute</Filter>
+    </ClInclude>
+    <ClInclude Include="flash.h">
+      <Filter>头文件\attribute</Filter>
+    </ClInclude>
+    <ClInclude Include="wolfteethbang.h">
+      <Filter>头文件\weapon</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="workManager.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="go.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="arrow.cpp">
+      <Filter>源文件\weapon</Filter>
+    </ClCompile>
+    <ClCompile Include="hammer.cpp">
+      <Filter>源文件\weapon</Filter>
+    </ClCompile>
+    <ClCompile Include="sheid.cpp">
+      <Filter>源文件\weapon</Filter>
+    </ClCompile>
+    <ClCompile Include="sword.cpp">
+      <Filter>源文件\weapon</Filter>
+    </ClCompile>
+    <ClCompile Include="bigkandao.cpp">
+      <Filter>源文件\weapon</Filter>
+    </ClCompile>
+    <ClCompile Include="arrow.h">
+      <Filter>头文件\weapon</Filter>
+    </ClCompile>
+    <ClCompile Include="sheid.h">
+      <Filter>头文件\weapon</Filter>
+    </ClCompile>
+    <ClCompile Include="sword.h">
+      <Filter>头文件\weapon</Filter>
+    </ClCompile>
+    <ClCompile Include="weapon_and_equipment.cpp">
+      <Filter>源文件\weapon</Filter>
+    </ClCompile>
+    <ClCompile Include="gesra.cpp">
+      <Filter>源文件\monster</Filter>
+    </ClCompile>
+    <ClCompile Include="monster.cpp">
+      <Filter>源文件\monster</Filter>
+    </ClCompile>
+    <ClCompile Include="character.cpp">
+      <Filter>源文件\character</Filter>
+    </ClCompile>
+    <ClCompile Include="knight.cpp">
+      <Filter>源文件\character</Filter>
+    </ClCompile>
+    <ClCompile Include="sparta.cpp">
+      <Filter>源文件\character</Filter>
+    </ClCompile>
+    <ClCompile Include="attribute.cpp">
+      <Filter>源文件\attribute</Filter>
+    </ClCompile>
+    <ClCompile Include="criticalhit.cpp">
+      <Filter>源文件\attribute</Filter>
+    </ClCompile>
+    <ClCompile Include="flash.cpp">
+      <Filter>源文件\attribute</Filter>
+    </ClCompile>
+    <ClCompile Include="smallgrass.h">
+      <Filter>头文件\weapon</Filter>
+    </ClCompile>
+    <ClCompile Include="smallgrass.cpp">
+      <Filter>源文件\weapon</Filter>
+    </ClCompile>
+    <ClCompile Include="wolfteethbang.cpp">
+      <Filter>源文件\weapon</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
